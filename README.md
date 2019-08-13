@@ -12,7 +12,7 @@
 * Understood the new best-practices for the DL era to set up train/dev/test sets and analyze bias and variance. 
 * Implemented a neural network using TensorFlow.
 
-### Course 3- Convolutional Neural Networks 
+### Course 3- Convolutional Neural Networks -currently pursuing
 * Computer Vision
 * Padding, Pooling, Strides, filters
 
