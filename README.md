@@ -15,6 +15,7 @@
 ### Course 3- Convolutional Neural Networks -currently pursuing
 * Computer Vision
 * Padding, Pooling, Strides, filters
+* ConvNets, ResNets, object detection and YOLO Algorithm
 
 ## TensorFlow Projects
 * Hands on sessions on TensorFlow Keras tutorials, optimizing these tutorials by implementing the knowledge from Coursera deep learning courses. 
