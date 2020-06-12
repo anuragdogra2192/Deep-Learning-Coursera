@@ -60,6 +60,7 @@ You will also hear from many top leaders in Deep Learning, who will share with y
    * Be able to apply sequence models to natural language problems, including text synthesis. 
    * Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
   
-## TensorFlow Projects
+<!-- ## TensorFlow Projects
 * Hands on sessions on TensorFlow Keras tutorials, optimizing these tutorials by implementing the knowledge from Coursera deep learning courses. 
 * Optimized the overfitting problem of basic classification tutorial on Fashion-MNIST data set by implementing L2 regularization technique.
+-->
