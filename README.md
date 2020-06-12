@@ -24,7 +24,7 @@ In five courses, you will learn the foundations of Deep Learning, understand how
   * Improved the efficiency of neural networks by vectorization.
   
   
-  [Coding Projects](https://github.com/anuragdogra2192/Deep-Learning-Coursera/tree/master/Computer_Vision)
+  [Coding Projects](https://github.com/anuragdogra2192/Deep-Learning-Coursera/tree/master/Neural_Networks_and_Deep_Learning)
   
 
 * **Course 2 - Structuring Machine Learning Projects**
@@ -37,7 +37,7 @@ In five courses, you will learn the foundations of Deep Learning, understand how
   * Know how to apply end-to-end learning, transfer learning, and multi-task learning.
   
   
-  [Coding Projects](https://github.com/anuragdogra2192/Deep-Learning-Coursera/tree/master/Computer_Vision)
+  There is no coding project in this course. But there are few [supplement notes](https://github.com/anuragdogra2192/Deep-Learning-Coursera/tree/master/Structuring_Machine_Learning_Projects).
 
 
 * **Course 3 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
@@ -50,7 +50,7 @@ In five courses, you will learn the foundations of Deep Learning, understand how
   * Implemented a neural network using TensorFlow.
   
   
-  [Coding Projects](https://github.com/anuragdogra2192/Deep-Learning-Coursera/tree/master/Computer_Vision)
+  [Coding Projects](https://github.com/anuragdogra2192/Deep-Learning-Coursera/tree/master/Improving_Deep_NNs_Hyperparameter_Tuning_Regularization_Optimization)
 
 
 * **Course 4 - Convolutional Neural Networks**
