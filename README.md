@@ -3,7 +3,9 @@
 <p align="center"><img width="40%" src="zIcons/logo.png" /></p>
 
 <p align="center">Deep Learning by deeplearning.ai on Coursera</p> 
-This repository contains all my projects which I have done during this specialization. I would like to thank Prof. Andrew Ng and his team to create such a wonderful content. Kindly use it as reference.
+This repository contains all my projects which I have done during this specialization. I would like to thank Prof. Andrew Ng and his team to create such a wonderful content. Kindly use it for reference and learning purposes to break into AI.
+
+My specialization [certificate](/blob/master/Coursera_UYMVRX5M3P4R.pdf).
 
 ## About The Specialization
 If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.
@@ -15,15 +17,15 @@ You will also hear from many top leaders in Deep Learning, who will share with y
 ### Instructor: [Prof. Andrew Ng](https://www.coursera.org/instructor/andrewng)
 
 ## Course Projects
-**Course 1: Neural Networks and Deep Learning**
+* **Course 1: Neural Networks and Deep Learning**
 
 Objectives:
 
-  * Studied the major technology trends driving Deep Learning and the key parameters in a neural network’s architecture
-  * Built, trained and applied fully connected deep neural networks using Python3, NumPy, SciPy etc
-  * Improved the efficiency of neural networks by vectorization
+ * Studied the major technology trends driving Deep Learning and the key parameters in a neural network’s architecture
+ * Built, trained and applied fully connected deep neural networks using Python3, NumPy, SciPy etc
+ * Improved the efficiency of neural networks by vectorization
 
-**Course 2 - Structuring Machine Learning Projects**
+* **Course 2 - Structuring Machine Learning Projects**
 
 Objectives:
 
@@ -32,7 +34,7 @@ Objectives:
  * Understand complex ML settings, such as mismatched training/test sets, and comparing to and/or surpassing human-level performance
  * Know how to apply end-to-end learning, transfer learning, and multi-task learning
 
-**Course 3 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
+* **Course 3 - Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization**
 
 Objectives:
 
@@ -41,7 +43,7 @@ Objectives:
  * Understood the new best-practices for the DL era to set up train/dev/test sets and analyze bias and variance. 
  * Implemented a neural network using TensorFlow.
 
-**Course 4 - Convolutional Neural Networks**
+* **Course 4 - Convolutional Neural Networks**
 
 Objectives:
 
@@ -50,7 +52,7 @@ Objectives:
  * Know to use neural style transfer to generate art.
  * Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
 
-**Course 5 - Sequence Models**
+* **Course 5 - Sequence Models**
 
   Objectives:
   
