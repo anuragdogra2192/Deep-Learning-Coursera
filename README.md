@@ -1,5 +1,7 @@
-# Deep Learning Specialization
-## Coursera, deeplearning.ai
+## Deep Learning Specialization
+<p align="center"><img width="40%" src="zIcons/logo.png" /></p>
+
+### Instructor: [Prof. Andrew Ng, DeepLearning.ai]
 
 ### Course 1- Neural Networks and Deep Learning
 * Studied the major technology trends driving Deep Learning and the key parameters in a neural network’s architecture.
