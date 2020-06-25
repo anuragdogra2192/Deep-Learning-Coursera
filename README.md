@@ -5,7 +5,7 @@
 <p align="center">Deep Learning by deeplearning.ai on Coursera</p> 
 This repository contains all my projects which I have done during this specialization. I would like to thank Prof. Andrew Ng and his team to create such a wonderful content. Kindly use it for reference and learning purposes to break into AI.
 
-My specialization [certificate](/blob/master/Coursera_UYMVRX5M3P4R.pdf).
+My specialization [certificate](https://coursera.org/share/5731ca15448a400dcf5e45da21394eae)
 
 ## About The Specialization
 If you want to break into AI, this Specialization will help you do so. Deep Learning is one of the most highly sought after skills in tech. We will help you become good at Deep Learning.
