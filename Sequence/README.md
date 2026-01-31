@@ -19,3 +19,7 @@
 * [Neural machine translation with attention](https://github.com/anuragdogra2192/Deep-Learning-Coursera/blob/master/Sequence/Week%203/Machine%20Translation/Neural_machine_translation_with_attention_v4a.ipynb)
 
 * [Trigger word detection](https://github.com/anuragdogra2192/Deep-Learning-Coursera/blob/master/Sequence/Week%203/Trigger%20word%20detection/Trigger_word_detection_v1a.ipynb)
+
+### Week 4
+* [Transformer Network](https://github.com/anuragdogra2192/Deep-Learning-Coursera/blob/master/Sequence/Week%204/Transformer%20Network/C5_W4_A1_Transformer_Subclass_v1.ipynb)
+* [Question Answering](https://github.com/anuragdogra2192/Deep-Learning-Coursera/blob/master/Sequence/Week%204/Question%20Answering/QA_transformer.ipynb)
