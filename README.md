@@ -73,6 +73,7 @@ In five courses, you will learn the foundations of Deep Learning, understand how
    * Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
    * Be able to apply sequence models to natural language problems, including text synthesis. 
    * Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
+   * Use HuggingFace tokenizers and transformer models to solve different NLP tasks such as NER and Question Answering.
    
    
    [Coding Projects](https://github.com/anuragdogra2192/Deep-Learning-Coursera/tree/master/Sequence)
